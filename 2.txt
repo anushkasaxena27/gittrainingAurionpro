@@ -1,5 +1,5 @@
 <<<<<<< Updated upstream
 This is modified for f2 modified for master 2.txt
 =======
-This is changed 2.txt modified for f1
+This is changed changed 2.txt modified for f1
 >>>>>>> Stashed changes
